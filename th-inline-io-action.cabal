@@ -1,5 +1,5 @@
 name:                th-inline-io-action
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Simple inline IO action into compiled code using TH
 description:         Simple utility which will inline IO action during compilation.
 homepage:            https://github.com/tolysz/inline-io-action
